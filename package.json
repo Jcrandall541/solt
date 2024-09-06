@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@project-serum/anchor": "^0.26.0",
-    "@solana/web3.js": "^1.88.0",
+    "@solana/web3.js": "^1.95.1",
     "@types/express": "^4.17.13",
     "bcrypt": "^5.0.1",
     "bs58": "^5.0.0",
